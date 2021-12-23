@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=Y70000&lines=Welcome+to+CEHunter30+Profile)](https://git.io/typing-svg)
 
   <p align="center">
-  <a href="https://raw.githubusercontent.com/CEHunter30/FOX/main/photo/FOX.jpg"><img src="https://raw.githubusercontent.com/CEHunter30/FOX/main/photo/FOX.jpg""width="170" height="170"/>
+  <a href="FOX.jpg"><img src="https://raw.githubusercontent.com/CEHunter30/FOX/main/photo/FOX.jpg""width="170" height="170"/>
   <p align="center">
 
 <a href="#"><img title="FOX" src="https://img.shields.io/badge/-🦊FOX🦊-blue?&style=for-the-badge"></a>
