@@ -21,7 +21,8 @@
 
 <hr></hr>  
     
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino_rounded.gif?raw=true" href="https://github.com/SP-XD" />
+**[![AMRU-SER](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/CEHunter30)**
+
 
 
 
