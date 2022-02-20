@@ -16,6 +16,13 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=CEHunter30&description=Hi,%20Welcome%20To%20🦊FOX🦊%20Profile%20❤&image=https://raw.githubusercontent.com/CEHunter30/FOX/main/photo/FOX.jpg&backgroundColor=%23ecf0f1&instagram=FOX&github=CEHunter30&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
+## WhatsAsena Get Asena Seeson And Deplot To Heroku
+
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CEHunter30/asena)
+
+
 <div align="center">
   <p align="center">
 
@@ -34,3 +41,4 @@
 CEHunter30/CEHunter30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
