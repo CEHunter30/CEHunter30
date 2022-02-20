@@ -16,7 +16,7 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=CEHunter30&description=Hi,%20Welcome%20To%20🦊FOX🦊%20Profile%20❤&image=https://raw.githubusercontent.com/CEHunter30/CEHunter30/main/FOX.jpg&backgroundColor=%23ecf0f1&instagram=FOX&github=CEHunter30&twitter=&pattern=leaf&colorPattern=%23eaeaea)
 
-## WhatsAsena Get Asena Sesson And Deplot To Heroku
+## WhatsAsena Get Asena Sesson And Deploy To Heroku
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
